@@ -1,0 +1,37 @@
+*{
+    text-align: center;
+}
+
+.container{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 2px solid black;
+    margin: 2rem;
+    
+}
+
+.box1{
+    display: flex;
+    justify-content: center;
+}
+
+.box2{
+    display: flex;
+    justify-content: center;
+} 
+
+.btn1{
+    background-color: yellow;
+}
+.btn2{
+    background-color: red;
+}
+
+.btn3{
+    background-color: purple;
+}
+
+.btn4{
+    background-color: green;
+}
